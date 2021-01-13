@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42f30f5c-9707-4087-a5b6-d2ac0effade2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kHfSll5TDv7zxt7Q3hK0aVTVxw" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="D1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D1" />
+      <module name="Lista 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="D2" />
+      <module name="Lista 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3" />
+      <module name="Lista 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="D3" />
+      <module name="Lista 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lista 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="D1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.D1" />
+      <item itemvalue="Application.D2" />
+      <item itemvalue="Application.D3" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.D3" />
+        <item itemvalue="Application.D3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="202" y="25" width="1024" height="826" key="#Project_Structure" timestamp="1605795181965">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="202" y="25" width="1024" height="826" key="#Project_Structure/0.25.1440.826@0.25.1440.826" timestamp="1605795181965" />
+    <state x="184" y="97" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605785954281">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="184" y="97" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.826@0.25.1440.826" timestamp="1605785954281" />
+    <state x="463" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605362478175">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="463" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.826@0.25.1440.826" timestamp="1605362478175" />
+    <state x="457" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605362823665">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="457" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.826@0.25.1440.826" timestamp="1605362823665" />
+    <state x="494" y="332" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605393285896">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="494" y="332" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.826@0.25.1440.826" timestamp="1605393285896" />
+    <state x="391" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605642601943">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="391" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.826@0.25.1440.826" timestamp="1605642601943" />
+    <state width="1354" height="209" key="GridCell.Tab.0.bottom" timestamp="1605794565987">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state width="1354" height="209" key="GridCell.Tab.0.bottom/0.25.1440.826@0.25.1440.826" timestamp="1605794565987" />
+    <state width="1354" height="209" key="GridCell.Tab.0.center" timestamp="1605794565985">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state width="1354" height="209" key="GridCell.Tab.0.center/0.25.1440.826@0.25.1440.826" timestamp="1605794565985" />
+    <state width="1354" height="209" key="GridCell.Tab.0.left" timestamp="1605794565985">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state width="1354" height="209" key="GridCell.Tab.0.left/0.25.1440.826@0.25.1440.826" timestamp="1605794565985" />
+    <state width="1354" height="209" key="GridCell.Tab.0.right" timestamp="1605794565986">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state width="1354" height="209" key="GridCell.Tab.0.right/0.25.1440.826@0.25.1440.826" timestamp="1605794565986" />
+    <state x="433" y="334" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605394001638">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="433" y="334" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1440.826@0.25.1440.826" timestamp="1605394001638" />
+    <state x="226" y="178" width="922" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605646102940">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="226" y="178" width="922" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1440.826@0.25.1440.826" timestamp="1605646102940" />
+    <state x="389" y="164" width="597" height="548" key="find.popup" timestamp="1605788777076">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="389" y="164" width="597" height="548" key="find.popup/0.25.1440.826@0.25.1440.826" timestamp="1605788777076" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
